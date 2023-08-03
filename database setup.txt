@@ -1,0 +1,7 @@
+Database Setup
+============
+Database Name - itsarxwp_bincom_test
+
+Username - itsarxwp_Bincomproject
+
+Password - 6y1rX9$Hau7w
